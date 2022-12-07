@@ -18,3 +18,20 @@ html {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background: $background;
 }
+
+.hero {
+  height: 350px;
+}
+
+.title {
+  padding: 50px 10px 0 0;
+}
+
+.button {
+  margin-left: 5px;
+  padding: 20px 40px;
+}
+
+.button-container {
+  margin-top: 30px;
+}
